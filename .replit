@@ -1,4 +1,4 @@
-run = "cowsay Configure me!"
+run="g++ -o <exe file> <file>"
 
 [nix]
 channel = "stable-22_11"
